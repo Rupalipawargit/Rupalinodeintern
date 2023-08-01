@@ -1,0 +1,53 @@
+[{
+  "_id": 1,
+  "name": "rupali",
+  "email": "rupali.pawar0307@gmail.com",
+  "password": "1234567",
+  "mobile": "1234567891",
+  "address": "qwwe",
+  "city": "Indore",
+  "gender": "female",
+  "role": "user",
+  "status": 1,
+  "info": "Sat May 13 2023 09:39:24 GMT+0530 (India Standard Time)",
+  "__v": 0
+},{
+  "_id": 2,
+  "name": "admin",
+  "email": "admin@gmail.com",
+  "password": "123456",
+  "mobile": "1231231234",
+  "address": "ooopp",
+  "city": "Indore",
+  "gender": "female",
+  "role": "admin",
+  "status": 1,
+  "info": "Mon May 15 2023 12:50:01 GMT+0530 (India Standard Time)",
+  "__v": 0
+},{
+  "_id": 3,
+  "name": "admin1",
+  "email": "admin1@gmail.com",
+  "password": "1234567",
+  "mobile": "1234567892",
+  "address": "gkhl",
+  "city": "Indore",
+  "gender": "female",
+  "role": "user",
+  "status": 1,
+  "info": "Mon May 15 2023 13:35:17 GMT+0530 (India Standard Time)",
+  "__v": 0
+},{
+  "_id": 4,
+  "name": "aaditya pawar",
+  "email": "sachin0178@gmail.com",
+  "password": "1234567",
+  "mobile": "7600019830",
+  "address": "ghjghjh",
+  "city": "Indore",
+  "gender": "male",
+  "role": "user",
+  "status": 1,
+  "info": "Sun Jul 02 2023 22:29:56 GMT+0530 (India Standard Time)",
+  "__v": 0
+}]
